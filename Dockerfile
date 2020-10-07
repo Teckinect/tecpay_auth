@@ -1,6 +1,6 @@
 FROM node:10
 
-WORKDIR /tecpay_login
+WORKDIR /tecpay_auth
 
 COPY package.json ./
 
